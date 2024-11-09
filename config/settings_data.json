@@ -195,6 +195,16 @@
         "type": "shopify://apps/proviews-product-reviews-q-a/blocks/core-snippet/12149a28-b683-4ed7-84d2-9d5b9721e861",
         "disabled": false,
         "settings": {}
+      },
+      "6172539447971965800": {
+        "type": "shopify://apps/wixpa-google-tag-manager/blocks/app_embed/f1c52f99-52b4-4171-8158-c7de7e415b8d",
+        "disabled": false,
+        "settings": {}
+      },
+      "2450789086036107872": {
+        "type": "shopify://apps/wixpa-ga4/blocks/star_rating/c2e14746-d691-44e9-a249-a159be386c1b",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
