@@ -185,6 +185,16 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "2531904286521935731": {
+        "type": "shopify://apps/proviews-product-reviews-q-a/blocks/aggregate-snippets/12149a28-b683-4ed7-84d2-9d5b9721e861",
+        "disabled": false,
+        "settings": {}
+      },
+      "3235757880135714522": {
+        "type": "shopify://apps/proviews-product-reviews-q-a/blocks/core-snippet/12149a28-b683-4ed7-84d2-9d5b9721e861",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
