@@ -146,6 +146,45 @@
         "type": "shopify://apps/icart-cart-drawer-cart-upsell/blocks/icart-block/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
         "disabled": false,
         "settings": {}
+      },
+      "10662897137267113127": {
+        "type": "shopify://apps/superacquire-grow-revenue/blocks/nx-script-fix/3bb939a8-5b8d-45ea-b43e-db09e29d822d",
+        "disabled": false,
+        "settings": {}
+      },
+      "12104266310658676657": {
+        "type": "shopify://apps/gst-pro/blocks/app-block/dc0bf9c4-5319-4158-acba-097d71ee1adc",
+        "disabled": false,
+        "settings": {
+          "title": "Enter Details for GST Invoice:",
+          "gstin_number": "GST Number:",
+          "collect_company": false,
+          "company_name": "Company Name:",
+          "disable_styles": false
+        }
+      },
+      "1075441268207101107": {
+        "type": "shopify://apps/o-auto-tag-flow-automation/blocks/omg-auto-tag/cbd71548-24b7-484c-ac63-c5991a1fea01",
+        "disabled": false,
+        "settings": {}
+      },
+      "859976262161311183": {
+        "type": "shopify://apps/searchtap-product-search/blocks/searchtap-search/7f37b5a8-2da6-4475-be8a-cbcd4177895f",
+        "disabled": false,
+        "settings": {
+          "theme_css": "{{ shop.metafields.searchtap.custom_css }}",
+          "theme_js": "{{ shop.metafields.searchtap.custom_js }}"
+        }
+      },
+      "234697707474025726": {
+        "type": "shopify://apps/analyzify-ga4-ads-tracking/blocks/app-embed-v4/69637cfd-dd6f-4511-aa97-7037cfb5515c",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
